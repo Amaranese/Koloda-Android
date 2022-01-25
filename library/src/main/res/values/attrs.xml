@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Koloda">
+
+        <attr name="koloda_card_layout" format="reference" />
+        <attr name="koloda_max_visible_cards" format="integer" />
+        <attr name="koloda_card_offsetY" format="dimension" />
+        <attr name="koloda_card_rotate_angle" format="float" />
+        <attr name="koloda_card_scale_diff" format="float" />
+        <attr name="koloda_card_animation_alpha" format="boolean" />
+
+    </declare-styleable>
+</resources>
